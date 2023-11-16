@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
 
-This is editing
+draft: This is editing
 ---
 
